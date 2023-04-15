@@ -1,5 +1,7 @@
 #!/bin/bash
 
+XRAY_DOWNLOAD_URL="https://github.com/XTLS/Xray-core/releases/download/v1.7.5/Xray-linux-64.zip"
+
 red='\033[0;31m'
 green='\033[0;32m'
 yellow='\033[0;33m'
